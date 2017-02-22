@@ -41,6 +41,8 @@ module.exports = (robot) =>
             roastee + " is dumb as cow shit and only half as useful",
             roastee.substr(1) + "-- for being useless",
             "why would I roast " + roastee + "? they can't even read",
+            roastee + " only looks cute, like, 95% of the time",
+            roastee + " sometimes has a bad hiar day",
             
         ]
         roast = roasts[Math.floor(Math.random()*roasts.length)]
